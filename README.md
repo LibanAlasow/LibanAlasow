@@ -1,4 +1,4 @@
-<h1><img src="https://avatars.githubusercontent.com/u/54947783?s=40&v=4">Welcome to my profile</h1>
+<h1>👋Welcome to my profile</h1>
 <div>
 My name is Liban, I am a web-developer, web-designer and a discord bot developer using both Discord.js and Discord.py.
 
@@ -11,3 +11,4 @@ My name is Liban, I am a web-developer, web-designer and a discord bot developer
 
 
 </div>
+<img src="https://media.discordapp.net/attachments/271790587974385675/926539182317391922/Screenshot_2021-12-31_19.12.58.png?width=792&height=430">
