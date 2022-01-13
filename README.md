@@ -5,10 +5,9 @@ My name is Liban, I am a web-developer, web-designer and a discord bot developer
 <h2>Recent projects</h2>
 <p>- my github page is fully created by me using HTML CSS and JS</p>
 <p>- Created a discord bot [Marvin](https://bot-dashboard.libanalasow.repl.co/)</p>
-<p></p>
-```
--help
-```
+<h2>🔥 Featured creations</h2>
+  <p>https://libanalasow.github.io/ - My personal website</p>
+  <p>https://loginv2.libanalasow.repl.co/ - Login form (CSS)</p>
 
 
 </div>
