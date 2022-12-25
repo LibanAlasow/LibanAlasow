@@ -1,5 +1,5 @@
 <p>hmm</p>
-* [Source/Full information](#general-info)
+[Source/Full information](#general-info)
 
 <h1>👋Welcome to my profile</h1>
 <div>
